@@ -1,0 +1,9 @@
+background-color=#03060c
+text-color=#f9bfcb
+border-color=#e47c97
+progress-color=#1f1624
+font=Comic Mono
+border-radius=20
+on-notify=exec paplay /home/omer/.config/quickshell/src/star.wav
+[urgency=high]
+border-color=#fab387
